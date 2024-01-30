@@ -1,0 +1,3 @@
+Solution of Part-B
+New Die A = [1, 2, 3, 4, 4, 4]
+New Die B = [1, 2, 3, 4, 5, 6]

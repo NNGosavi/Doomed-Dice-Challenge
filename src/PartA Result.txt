@@ -1,0 +1,57 @@
+Solution of Part-A (1)
+Total number of possible combinations are:
+36
+
+Solution of Part-A (2)
+The distribution of all possible combinations that can be obtained when rolling both Die A and Die B together are as follows:
+(Value On Die A) + (Value On Die B) = Sum
+1) 1 + 1 = 2
+2) 1 + 2 = 3
+3) 1 + 3 = 4
+4) 1 + 4 = 5
+5) 1 + 5 = 6
+6) 1 + 6 = 7
+7) 2 + 1 = 3
+8) 2 + 2 = 4
+9) 2 + 3 = 5
+10) 2 + 4 = 6
+11) 2 + 5 = 7
+12) 2 + 6 = 8
+13) 3 + 1 = 4
+14) 3 + 2 = 5
+15) 3 + 3 = 6
+16) 3 + 4 = 7
+17) 3 + 5 = 8
+18) 3 + 6 = 9
+19) 4 + 1 = 5
+20) 4 + 2 = 6
+21) 4 + 3 = 7
+22) 4 + 4 = 8
+23) 4 + 5 = 9
+24) 4 + 6 = 10
+25) 5 + 1 = 6
+26) 5 + 2 = 7
+27) 5 + 3 = 8
+28) 5 + 4 = 9
+29) 5 + 5 = 10
+30) 5 + 6 = 11
+31) 6 + 1 = 7
+32) 6 + 2 = 8
+33) 6 + 3 = 9
+34) 6 + 4 = 10
+35) 6 + 5 = 11
+36) 6 + 6 = 12
+
+Solution of Part-A (3)
+The Probability of all Possible Sums occurring among the number of combinations is as follows:
+P(Sum = 2) = 1/36
+P(Sum = 3) = 2/36
+P(Sum = 4) = 3/36
+P(Sum = 5) = 4/36
+P(Sum = 6) = 5/36
+P(Sum = 7) = 6/36
+P(Sum = 8) = 5/36
+P(Sum = 9) = 4/36
+P(Sum = 10) = 3/36
+P(Sum = 11) = 2/36
+P(Sum = 12) = 1/36
